@@ -1,4 +1,4 @@
-# Portfolio — Martin Camilo Rodriguez Murcia
+# Portfolio — Martin Rodriguez
 
 This repository contains selected academic and professional projects (code and methodology).
 Some projects rely on confidential datasets; in those cases, only code structure and documentation are shared.
