@@ -1,0 +1,11 @@
+# COVID-19 Impact on Firms — Research Assistant (Python)
+
+Data engineering project developed as a Research Assistant at the National University of Colombia.
+Built analysis-ready firm panels to study how the pandemic affected the financial performance of small and medium-sized enterprises.
+
+**What you’ll find**
+- Multi-source data collection and consolidation into firm–time panels
+- Data cleaning, harmonization, deflation/normalization and feature engineering
+- Validation checks and reproducible preprocessing notebooks
+
+**Note:** Raw datasets are not included when they are not public.
