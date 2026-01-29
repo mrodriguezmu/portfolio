@@ -7,5 +7,6 @@ Built analysis-ready firm panels to study how the pandemic affected the financia
 - Multi-source data collection and consolidation into firm–time panels
 - Data cleaning, harmonization, deflation/normalization and feature engineering
 - Validation checks and reproducible preprocessing notebooks
+- Automated data collection via web scraping (requests/BeautifulSoup) + multi-source panel construction + feature engineering and QC.
 
 **Note:** Raw datasets are not included when they are not public.
